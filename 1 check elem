@@ -1,0 +1,3 @@
+if (!elem.firstChild) { ... }
+
+if (!elem.lastChild) { ... }
